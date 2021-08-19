@@ -1,5 +1,5 @@
 ---
-title: Recommender System Solution Workshop 
+title: Recommender System Solution Workshop (Beijing/Ningxia Region)
 chapter: true
 ---
 
