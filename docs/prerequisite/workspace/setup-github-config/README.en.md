@@ -17,7 +17,7 @@ weight: 6
     ls ~/.ssh
     ```
   
-    If you do not have, please follow [Create an SSH key](https://gcr-solutions.github.io/recommender-system-dev-workshop/prerequisite/workspace/create-ssh-key/readme/) to create such public/private keys.
+    If you do not have, please follow [Create an SSH key](https://gcr-solutions.github.io/recommender-system-dev-workshop-cn/prerequisite/workspace/create-ssh-key/readme/) to create such public/private keys.
 
     Enter the following command and **copy** to your clipboard.
 
