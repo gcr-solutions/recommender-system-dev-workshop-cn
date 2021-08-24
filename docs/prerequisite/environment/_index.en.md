@@ -12,8 +12,8 @@ In order to complete this workshop you’ll need an AWS Account, and an AWS IAM 
 In order to complete this workshop, you also need a github account, if you don't have github account, please follow [signing-up-for-github](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github) to create github account.
 
 ## AWS Region
-Once you’ve chosen a region, you should create all of the resources for this workshop there. Accordingly, we recommend running this workshop in **Tokyo** AWS Regions. Use the region drop list to select **Asia Pacific (Tokyo)ap-northeast-1**.
-
+Once you’ve chosen a region, you should create all of the resources for this workshop there. Accordingly, we recommend running this workshop in **Tokyo** AWS Regions. In this workshop, you create all ops resources in **Tokyo** AWS Regions. 
+Use the region drop list to select **Asia Pacific (Tokyo)ap-northeast-1**. You create all function resources in **CN** AWS Regions. Use the region drop list to select **China (Beijing)cn-north-1**.
 ## Browser
 We recommend you use the latest version of **Chrome** to complete this workshop.
 
@@ -22,6 +22,6 @@ To test certain workshop functions, your SageMaker resource limit need to meet t
 
 |Region |Resource type |Resource | 	Required limit |
 |--- |--- | --- | --- |
-|ap-northeast-1|SageMaker Training |training-job/ml.p2.xlarge |2|
-|ap-northeast-1|SageMaker Processing |processing-job/ml.m5.large |2|
+|cn-north-1|SageMaker Training |training-job/ml.p2.xlarge |2|
+|cn-north-1|SageMaker Processing |processing-job/ml.m5.large |2|
 
