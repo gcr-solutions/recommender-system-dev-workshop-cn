@@ -2,6 +2,8 @@
 title: Config AWS profile to access China region
 weight: 7
 ---
+## Create an AWS profile in Cloud9 to access China region
+
 1. Go to **China region** AWS console [https://console.amazonaws.cn/iamv2/home?#/users](https://console.amazonaws.cn/iamv2/home?#/users)
 
 2. Create an IAM user with [policy](https://github.com/gcr-solutions/recommender-system-dev-workshop-code/blob/main/scripts/role/gcr-rs-role.json) 
