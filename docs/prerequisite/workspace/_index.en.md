@@ -10,3 +10,4 @@ This section includes following steps:
 - [Attach the IAM role](./attach-role/readme)
 - [Update IAM settings](./update-role-settings/readme)
 - [Create an SSH key](./create-ssh-key/readme)
+- [Config CN aws profile](./cn-profile/readme)
