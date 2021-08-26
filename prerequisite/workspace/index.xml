@@ -20,7 +20,7 @@ git config --global user.email &amp;quot;your_email@example.com&amp;quot;
 Set up ssh on your cloud9 workspace.
 Enter the following command to check if you have files ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub.
 ls ~/.ssh If you do not have, please follow Create an SSH key to create such public/private keys.</description></item><item><title>Config AWS profile to access China region</title><link>https://gcr-solutions.github.io/recommender-system-dev-workshop-cn/prerequisite/workspace/cn-profile/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gcr-solutions.github.io/recommender-system-dev-workshop-cn/prerequisite/workspace/cn-profile/readme/</guid><description> Go to China region AWS console https://console.amazonaws.cn/iamv2/home?#/users
-In create an IAM user with policy
+Create an IAM user with policy
 Record the Access key ID and Secret access key
-In the Cloud9 terminal, config an AWS profile rs-dev-workshop-cn that can access China region (cn-north-1)
+In the Cloud9 terminal, config an AWS profile rs-dev-workshop-cn, set region: cn-north-1
 aws configure --profile rs-dev-workshop-cn</description></item></channel></rss>
