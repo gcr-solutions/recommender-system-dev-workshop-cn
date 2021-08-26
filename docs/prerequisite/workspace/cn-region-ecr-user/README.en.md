@@ -5,7 +5,7 @@ weight: 8
 
 ## Create IAM user with ECR access only in China region (cn-north-1)
 
-1. Go to China region AWS console [https://console.amazonaws.cn/iamv2/home?#/users](https://console.amazonaws.cn/iamv2/home?#/users)
+1. Go to **China region** AWS console [https://console.amazonaws.cn/iamv2/home?#/users](https://console.amazonaws.cn/iamv2/home?#/users)
 
 2. Add User, name: `rs-dev-workshop-cn-ecr-user`, check **Programmatic access**
  ![create ecr user](/images/cn-create-ecr-user.png)
