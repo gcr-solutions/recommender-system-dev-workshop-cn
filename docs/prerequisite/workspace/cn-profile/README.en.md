@@ -16,5 +16,9 @@ weight: 7
 ```
 ![cn aws profile ](/images/cn-aws-profile.png)
 
-
+5. export profile name as Env 
+```sh
+export CN_AWS_PROFILE=rs-dev-workshop-cn
+echo "export CN_AWS_PROFILE=${CN_AWS_PROFILE}" | tee -a ~/.bash_profile
+```
 
