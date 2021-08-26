@@ -23,4 +23,4 @@ ls ~/.ssh If you do not have, please follow Create an SSH key to create such pub
 Create an IAM user with policy
 Record the Access key ID and Secret access key
 In the Cloud9 terminal, config an AWS profile rs-dev-workshop-cn, set region: cn-north-1
-aws configure --profile rs-dev-workshop-cn</description></item></channel></rss>
+aws configure --profile rs-dev-workshop-cn export profile name as Env export CN_AWS_PROFILE=rs-dev-workshop-cn echo &amp;#34;export CN_AWS_PROFILE=${CN_AWS_PROFILE}&amp;#34; | tee -a ~/.</description></item></channel></rss>
