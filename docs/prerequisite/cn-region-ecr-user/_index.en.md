@@ -14,7 +14,7 @@ weight: 25
  ![ecr user policy](/images/cn-ecr-user-policy.png)
 4. Review and Create the user
 
-5. Record the *Access key ID* and *Secret access key*
+5. Record the **Access key ID** and **Secret access key**
 ![ecr-user-secret-key](images/cn-ecr-user-secret-key.png)
 
 6. In cloud9 terminal window, execute below commands:
