@@ -15,7 +15,7 @@ weight: 25
 4. Review and Create the user
 
 5. Record the **Access key ID** and **Secret access key**
-![ecr-user-secret-key](images/cn-ecr-user-secret-key.png)
+![ecr-user-secret-key](/images/cn-ecr-user-secret-key.png)
 
 6. In cloud9 terminal, execute below commands:
 ```sh 
