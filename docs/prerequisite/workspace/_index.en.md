@@ -11,3 +11,4 @@ This section includes following steps:
 - [Update IAM settings](./update-role-settings/readme)
 - [Create an SSH key](./create-ssh-key/readme)
 - [Config CN aws profile](./cn-profile/readme)
+- [Create ECR user in China region](./cn-region-ecr-user/readme)

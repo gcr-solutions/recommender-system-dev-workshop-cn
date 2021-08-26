@@ -1,9 +1,9 @@
 ---
 title: Create ECR user in China region 
-weight: 25
+weight: 8
 ---
 
-## Create IAM user with ECR access in China region (cn-north-1)
+## Create IAM user with ECR access only in China region (cn-north-1)
 
 1. Go to China region AWS console [https://console.amazonaws.cn/iamv2/home?#/users](https://console.amazonaws.cn/iamv2/home?#/users)
 
