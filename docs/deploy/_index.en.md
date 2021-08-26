@@ -26,9 +26,7 @@ There are three types of API
 
 - admin
    
-   `/event/start_train` - trigger offline training job
-  
-   `/event/batch_update` - trigger offline batch job, re-generating recommended item list for all users
+   `/event/start_train` - trigger offline training job and batch update job
 
 
 The swagger description of the API is shown as below:
