@@ -1,6 +1,6 @@
 ---
 title: Config AWS profile to access China region
-weight: 6
+weight: 7
 ---
 1. Go to **China region** AWS console [https://console.amazonaws.cn/iamv2/home?#/users](https://console.amazonaws.cn/iamv2/home?#/users)
 
