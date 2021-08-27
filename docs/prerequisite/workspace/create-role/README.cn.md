@@ -21,7 +21,7 @@ weight: 2
    
 2. 首先打开 [策略链接](https://github.com/gcr-solutions/recommender-system-dev-workshop-code/blob/main/scripts/role/gcr-rs-role.json), 复制 gcr-rs-role.json 文件中的内容。
 
-3. 打开创建策略的 [链接](https://console.aws.amazon.com/iam/home#/policies$new?step=edit), 在 JSON 栏中粘贴上一步复制的内容，**注意**: 请将 `002224604296` 改为您的AWS 账户 ID。完成后点击下一步。
+3. 打开创建策略的 [链接](https://console.aws.amazon.com/iam/home#/policies$new?step=edit), 在 JSON 栏中粘贴上一步复制的内容，**注意**: 请将 `522244679887` 改为您的AWS 账户 ID。完成后点击下一步。
 
    ![CREATE POLICY](/images/create-iam-policy.png)
    
