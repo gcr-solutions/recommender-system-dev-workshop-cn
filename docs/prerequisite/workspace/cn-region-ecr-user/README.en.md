@@ -1,5 +1,5 @@
 ---
-title: Create ECR user in China region 
+title: Create ECR user in China region (Requirement for China Region)
 weight: 8
 ---
 

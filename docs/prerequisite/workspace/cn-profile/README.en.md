@@ -1,5 +1,5 @@
 ---
-title: Config AWS profile to access China region
+title: Config AWS profile to access China region (Requirement For China Region)
 weight: 7
 ---
 ## Create an AWS profile in Cloud9 to access China region

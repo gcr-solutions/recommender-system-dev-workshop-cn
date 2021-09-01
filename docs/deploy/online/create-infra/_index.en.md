@@ -1,5 +1,5 @@
 ---
-title: Create Infrastructure
+title: Create Infrastructure (Need Set Up Region For Deployment)
 weight: 3
 ---
 
